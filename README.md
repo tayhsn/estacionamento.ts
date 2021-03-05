@@ -1,4 +1,4 @@
-## Projeto de estudo para aplicar o conceito de TypeScript
+## Projeto para estudo de TypeScript :memo:
 
-### Funções de registro para estacionamento
+### :truck: Registro de Estacionamento
 
